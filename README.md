@@ -7,3 +7,8 @@ My first project for learning Git and GitHub.
 - Commits
 - Branches
 - GitHub collaboration
+
+## My Progress
+- Created my first Git repository
+- Connected GitHub to Ubuntu
+- Successfully pushed my first commit
